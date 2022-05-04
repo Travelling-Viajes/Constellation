@@ -2142,26 +2142,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luis1\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\acer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Xamarin\\Constellation\\Constellation.Android\\Constellation.Android.csproj",
+      "projectUniqueName": "C:\\Users\\acer\\source\\repos\\Constellation\\Constellation.Android\\Constellation.Android.csproj",
       "projectName": "Constellation.Android",
-      "projectPath": "D:\\Xamarin\\Constellation\\Constellation.Android\\Constellation.Android.csproj",
-      "packagesPath": "C:\\Users\\luis1\\.nuget\\packages\\",
-      "outputPath": "D:\\Xamarin\\Constellation\\Constellation.Android\\obj\\",
+      "projectPath": "C:\\Users\\acer\\source\\repos\\Constellation\\Constellation.Android\\Constellation.Android.csproj",
+      "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\acer\\source\\repos\\Constellation\\Constellation.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\luis1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid11.0"
@@ -2173,8 +2168,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "D:\\Xamarin\\Constellation\\Constellation\\Constellation.csproj": {
-              "projectPath": "D:\\Xamarin\\Constellation\\Constellation\\Constellation.csproj"
+            "C:\\Users\\acer\\source\\repos\\Constellation\\Constellation\\Constellation.csproj": {
+              "projectPath": "C:\\Users\\acer\\source\\repos\\Constellation\\Constellation\\Constellation.csproj"
             }
           }
         }
